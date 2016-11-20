@@ -1,0 +1,8 @@
+<!-- Copyright (c) Microsoft. All rights reserved. -->
+
+<resources>
+    <color name="button_pressed_background">#F01C40</color>
+    <color name="button_enabled_background">#F01C40</color>
+    <color name="button_disabled_background">#F01C40</color>
+    <color name="transparent">#00FFFFFF</color>
+</resources>
